@@ -45,3 +45,12 @@ NLP Libraries: VADER, RoBERTa
 Machine Learning Libraries: Scikit-learn, Transformers
 
 Pandas, NumPy (For data handling and analysis)
+
+## Installation
+
+To run the Typing Speed Test locally, follow these steps:
+
+1. **Clone the repository**:
+   
+   ```bash
+   git clone https://github.com/rakeshmuntha/Main-women-safety.git
