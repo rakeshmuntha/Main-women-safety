@@ -38,13 +38,13 @@ Exploring oversampling to further enhance model performance.
 
 ### Technologies Used
 
-Python (Core language for development)
+**Python** (Core language for development)
 
-NLP Libraries: VADER, RoBERTa
+NLP Libraries: **VADER, RoBERTa**
 
-Machine Learning Libraries: Scikit-learn, Transformers
+Machine Learning Libraries: **Scikit-learn, Transformers**
 
-Pandas, NumPy (For data handling and analysis)
+**Pandas, NumPy** (For data handling and analysis)
 
 ## Installation
 
