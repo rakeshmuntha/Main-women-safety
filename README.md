@@ -8,49 +8,44 @@ Developed a machine learning model using RoBERTa to **identify and analyze abusi
 
 ### Sentiment Analysis:
 
-Uses RoBERTa for improved accuracy in sentiment classification.
-
-Identifies tweets that reflect social concerns, harassment, or violence against women.
+* Uses RoBERTa for improved accuracy in sentiment classification.
+* Identifies tweets that reflect social concerns, harassment, or violence against women.
 
 ### Bias-Aware Classification:
 
-Implemented a custom dataset to detect implicit biases in tweet content.
-
-Uses contextual analysis to spot stereotype phrases and comparative language.
+* Implemented a custom dataset to detect implicit biases in tweet content.
+* Uses contextual analysis to spot stereotype phrases and comparative language.
 
 ### Data Preprocessing:
 
-Cleaned data by removing irrelevant symbols, special characters, and URLs.
-
-Tokenized text for efficient feature extraction.
+* Cleaned data by removing irrelevant symbols, special characters, and URLs.
+* Tokenized text for efficient feature extraction.
 
 ### Model Training and Evaluation:
 
-Utilizes VADER for feature extraction and Logistic Regression for classification.
-
-Achieved 92% accuracy with the improved RoBERTa model.
+* Utilizes VADER for feature extraction and Logistic Regression for classification.
+* Achieved 92% accuracy with the improved RoBERTa model.
 
 ### Data Balancing Techniques:
 
-Applied weighted loss to address class imbalance.
-
-Exploring oversampling to further enhance model performance.
+* Applied weighted loss to address class imbalance.
+* Exploring oversampling to further enhance model performance.
 
 ### Technologies Used
 
-**Python** (Core language for development)
-
-NLP Libraries: **VADER, RoBERTa**
-
-Machine Learning Libraries: **Scikit-learn, Transformers**
-
-**Pandas, NumPy** (For data handling and analysis)
+   **Python** (Core language for development)
+   
+   NLP Libraries: **VADER, RoBERTa**
+   
+   Machine Learning Libraries: **Scikit-learn, Transformers**
+   
+   **Pandas, NumPy** (For data handling and analysis)
 
 ## Installation
 
-To run the Typing Speed Test locally, follow these steps:
+To run the project locally, follow these steps:
 
 1. **Clone the repository**:
    
-   ```bash
-   git clone https://github.com/rakeshmuntha/Main-women-safety.git
+```bash
+git clone https://github.com/rakeshmuntha/Main-women-safety.git
